@@ -15,6 +15,7 @@ TypeScript – Statically typed superset of JavaScript for better reliability.
 Vite – Fast development bundler with hot reload and optimized builds.
 
 📂 Project Structure
+```
 todo-app/
 │
 ├── backend/
@@ -51,7 +52,7 @@ todo-app/
 └── README.md
 ▶️ Running the Project
 1️⃣ Backend
-
+```
 Create a PostgreSQL database and add a .env file inside the backend folder:
 
 DB_HOST=localhost
